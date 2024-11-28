@@ -22,3 +22,6 @@ The Kalman filter is named after Rudolf E. Kálmán, a Hungarian-American engine
 ## Example:
 Kalman Filter: Used in GPS navigation to estimate the position of a vehicle by combining noisy sensor data over time.
 Gaussian Filter: Used in image processing to smooth out noise in an image by assuming the noise follows a Gaussian distribution
+
+## Acknowledment
+https://github.com/Victor-Ikechukwu Thank you for your invaluable insights, feedback, and continuous support throughout the development of this project
